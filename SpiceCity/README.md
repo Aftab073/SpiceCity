@@ -1,6 +1,6 @@
 <h1><i>Spice City</i></h1>
 
-<span> This is a <b>responsive website </>built on React.js and Tailwind Css for the Foodies </span>
+<span> This is a <b>responsive website </b>built on React.js and Tailwind Css for the Foodies </span>
 
 Getting Started:
 1. Clone the repository:
