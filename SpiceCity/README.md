@@ -1,8 +1,19 @@
-# React + Vite
+<h1><i>Spice City</i></h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<span> This is a <b>responsive website </>built on React.js and Tailwind Css for the Foodies </span>
 
-Currently, two official plugins are available:
+Getting Started:
+1. Clone the repository:
+git clone ["https://github.com/Aftab073/SpiceCity"]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+2. Install dependencies:
+cd SpiceCity
+npm install
+
+3. Start the development server:
+npm run dev
+
+Technologies Used:
+
+=> React Vite
+=> Tailwind Css
