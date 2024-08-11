@@ -64,6 +64,7 @@ const Navbar = () => {
                         <li className="text-xl py-4 flex"><FaUserFriends size={25} className="mr-4"/>Invite Friends</li>
                     </ul>
                 </nav>
+                
             </div>
 
 
